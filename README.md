@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Tailwind CSS, Styled Components**
 
-- 👨‍💻 All of my projects are available at my **[Portfolio]**(https://thegoat7.netlify.app/)
+- 👨‍💻 All of my projects are available at my **[Portfolio](https://thegoat7.netlify.app/)**
 
 - 💬 Ask me about **JavaScript, React, Sass**
 
