@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Tailwind CSS, Styled Components**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://thegoat7.netlify.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://thegoat7.netlify.app/)
 
 - 💬 Ask me about **JavaScript, React, Sass**
 
 - 📫 How to reach me **shaherashraf77@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zwEez4bvcJsN0p7Me-WgLz9GixahX4o9/view?usp=sharing)
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1zwEez4bvcJsN0p7Me-WgLz9GixahX4o9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
